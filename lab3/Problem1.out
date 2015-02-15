@@ -1,0 +1,148 @@
+Script started on Tue 19 Feb 2013 11:11:22 AM EST
+]0;landgrebea@aldenv104: ~/cs112/lab3landgrebea@aldenv104:~/cs112/lab3$ javac TwitterCreateProperties.java 
+]0;landgrebea@aldenv104: ~/cs112/lab3landgrebea@aldenv104:~/cs112/lab3$ java Tqw[K[Kqi[K[K[KTwitterCreateProperties 
+[Tue Feb 19 11:11:44 EST 2013]debug: true
+[Tue Feb 19 11:11:44 EST 2013]userAgent: twitter4j http://twitter4j.org/ /3.0.3
+[Tue Feb 19 11:11:44 EST 2013]user: null
+[Tue Feb 19 11:11:44 EST 2013]password: null
+[Tue Feb 19 11:11:44 EST 2013]useSSL: false
+[Tue Feb 19 11:11:44 EST 2013]prettyDebug: false
+[Tue Feb 19 11:11:44 EST 2013]gzipEnabled: true
+[Tue Feb 19 11:11:44 EST 2013]httpProxyHost: null
+[Tue Feb 19 11:11:44 EST 2013]httpProxyUser: null
+[Tue Feb 19 11:11:44 EST 2013]httpProxyPassword: null
+[Tue Feb 19 11:11:44 EST 2013]httpProxyPort: -1
+[Tue Feb 19 11:11:44 EST 2013]httpConnectionTimeout: 20000
+[Tue Feb 19 11:11:44 EST 2013]httpReadTimeout: 120000
+[Tue Feb 19 11:11:44 EST 2013]httpStreamingReadTimeout: 40000
+[Tue Feb 19 11:11:44 EST 2013]httpRetryCount: 0
+[Tue Feb 19 11:11:44 EST 2013]httpRetryIntervalSeconds: 5
+[Tue Feb 19 11:11:44 EST 2013]maxTotalConnections: 20
+[Tue Feb 19 11:11:44 EST 2013]defaultMaxPerRoute: 2
+[Tue Feb 19 11:11:44 EST 2013]oAuthConsumerKey: 87phzuHwuARcCwAjgVUYww
+[Tue Feb 19 11:11:44 EST 2013]oAuthConsumerSecret: ******************************************
+[Tue Feb 19 11:11:44 EST 2013]oAuthAccessToken: null
+[Tue Feb 19 11:11:44 EST 2013]oAuthAccessTokenSecret: null
+[Tue Feb 19 11:11:44 EST 2013]oAuthRequestTokenURL: http://api.twitter.com/oauth/request_token
+[Tue Feb 19 11:11:44 EST 2013]oAuthAuthorizationURL: http://api.twitter.com/oauth/authorize
+[Tue Feb 19 11:11:44 EST 2013]oAuthAccessTokenURL: http://api.twitter.com/oauth/access_token
+[Tue Feb 19 11:11:44 EST 2013]oAuthAuthenticationURL: http://api.twitter.com/oauth/authenticate
+[Tue Feb 19 11:11:44 EST 2013]restBaseURL: http://api.twitter.com/1.1/
+[Tue Feb 19 11:11:44 EST 2013]streamBaseURL: https://stream.twitter.com/1.1/
+[Tue Feb 19 11:11:44 EST 2013]userStreamBaseURL: https://userstream.twitter.com/1.1/
+[Tue Feb 19 11:11:44 EST 2013]siteStreamBaseURL: https://sitestream.twitter.com/1.1/
+[Tue Feb 19 11:11:44 EST 2013]dispatcherImpl: twitter4j.internal.async.DispatcherImpl
+[Tue Feb 19 11:11:44 EST 2013]loggerFactory: null
+[Tue Feb 19 11:11:44 EST 2013]asyncNumThreads: 1
+[Tue Feb 19 11:11:44 EST 2013]contributingTo: -1
+[Tue Feb 19 11:11:44 EST 2013]includeRTsEnabled: true
+[Tue Feb 19 11:11:44 EST 2013]includeEntitiesEnabled: true
+[Tue Feb 19 11:11:44 EST 2013]includeMyRetweetEnabled: true
+[Tue Feb 19 11:11:44 EST 2013]jsonStoreEnabled: false
+[Tue Feb 19 11:11:44 EST 2013]mbeanEnabled: false
+[Tue Feb 19 11:11:44 EST 2013]userStreamRepliesAllEnabled: false
+[Tue Feb 19 11:11:44 EST 2013]stallWarningsEnabled: true
+[Tue Feb 19 11:11:44 EST 2013]mediaProvider: TWITTER
+[Tue Feb 19 11:11:44 EST 2013]mediaProviderAPIKey: null
+[Tue Feb 19 11:11:44 EST 2013]mediaProviderParameters: null
+[Tue Feb 19 11:11:44 EST 2013]clientVersion: 3.0.3
+[Tue Feb 19 11:11:44 EST 2013]clientURL: http://twitter4j.org/en/twitter4j-3.0.3.xml
+[Tue Feb 19 11:11:44 EST 2013]DALVIK: twitter4j.dalvik
+[Tue Feb 19 11:11:44 EST 2013]GAE: twitter4j.gae
+[Tue Feb 19 11:11:44 EST 2013]DEFAULT_OAUTH_REQUEST_TOKEN_URL: http://api.twitter.com/oauth/request_token
+[Tue Feb 19 11:11:44 EST 2013]DEFAULT_OAUTH_AUTHORIZATION_URL: http://api.twitter.com/oauth/authorize
+[Tue Feb 19 11:11:44 EST 2013]DEFAULT_OAUTH_ACCESS_TOKEN_URL: http://api.twitter.com/oauth/access_token
+[Tue Feb 19 11:11:44 EST 2013]DEFAULT_OAUTH_AUTHENTICATION_URL: http://api.twitter.com/oauth/authenticate
+[Tue Feb 19 11:11:44 EST 2013]DEFAULT_REST_BASE_URL: http://api.twitter.com/1.1/
+[Tue Feb 19 11:11:44 EST 2013]DEFAULT_STREAM_BASE_URL: https://stream.twitter.com/1.1/
+[Tue Feb 19 11:11:44 EST 2013]DEFAULT_USER_STREAM_BASE_URL: https://userstream.twitter.com/1.1/
+[Tue Feb 19 11:11:44 EST 2013]DEFAULT_SITE_STREAM_BASE_URL: https://sitestream.twitter.com/1.1/
+[Tue Feb 19 11:11:44 EST 2013]IS_DALVIK: false
+[Tue Feb 19 11:11:44 EST 2013]IS_GAE: false
+[Tue Feb 19 11:11:44 EST 2013]serialVersionUID: -6610497517837844232
+[Tue Feb 19 11:11:44 EST 2013]dalvikDetected: false
+[Tue Feb 19 11:11:44 EST 2013]gaeDetected: false
+[Tue Feb 19 11:11:44 EST 2013]requestHeaders: {X-Twitter-Client-URL=http://twitter4j.org/en/twitter4j-3.0.3.xml, X-Twitter-Client=Twitter4J, Accept-Encoding=gzip, User-Agent=twitter4j http://twitter4j.org/ /3.0.3, X-Twitter-Client-Version=3.0.3}
+[Tue Feb 19 11:11:44 EST 2013]instances: [ConfigurationBase{debug=true, userAgent='twitter4j http://twitter4j.org/ /3.0.3', user='null', password='null', useSSL=false, prettyDebug=false, gzipEnabled=true, httpProxyHost='null', httpProxyUser='null', httpProxyPassword='null', httpProxyPort=-1, httpConnectionTimeout=20000, httpReadTimeout=120000, httpStreamingReadTimeout=40000, httpRetryCount=0, httpRetryIntervalSeconds=5, maxTotalConnections=20, defaultMaxPerRoute=2, oAuthConsumerKey='87phzuHwuARcCwAjgVUYww', oAuthConsumerSecret='D9AAkdfQcWR04CuU4IL4s3tVLxiijsez276ldayTng', oAuthAccessToken='null', oAuthAccessTokenSecret='null', oAuthRequestTokenURL='http://api.twitter.com/oauth/request_token', oAuthAuthorizationURL='http://api.twitter.com/oauth/authorize', oAuthAccessTokenURL='http://api.twitter.com/oauth/access_token', oAuthAuthenticationURL='http://api.twitter.com/oauth/authenticate', restBaseURL='http://api.twitter.com/1.1/', streamBaseURL='https://stream.twitter.com/1.1/', userStreamBaseURL='https://userstream.twitter.com/1.1/', siteStreamBaseURL='https://sitestream.twitter.com/1.1/', dispatcherImpl='twitter4j.internal.async.DispatcherImpl', loggerFactory='null', asyncNumThreads=1, contributingTo=-1, includeRTsEnabled=true, includeEntitiesEnabled=true, includeMyRetweetEnabled=true, jsonStoreEnabled=false, mbeanEnabled=false, userStreamRepliesAllEnabled=false, stallWarningsEnabled=true, mediaProvider='TWITTER', mediaProviderAPIKey='null', mediaProviderParameters=null, clientVersion='3.0.3', clientURL='http://twitter4j.org/en/twitter4j-3.0.3.xml', IS_DALVIK=false, IS_GAE=false, requestHeaders={X-Twitter-Client-URL=http://twitter4j.org/en/twitter4j-3.0.3.xml, X-Twitter-Client=Twitter4J, Accept-Encoding=gzip, User-Agent=twitter4j http://twitter4j.org/ /3.0.3, X-Twitter-Client-Version=3.0.3}}]
+[Tue Feb 19 11:11:44 EST 2013]Request: 
+[Tue Feb 19 11:11:44 EST 2013]POST http://api.twitter.com/oauth/request_token
+[Tue Feb 19 11:11:44 EST 2013]OAuth base string: POST&http%3A%2F%2Fapi.twitter.com%2Foauth%2Frequest_token&oauth_consumer_key%3D87phzuHwuARcCwAjgVUYww%26oauth_nonce%3D942916617%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1361290304%26oauth_version%3D1.0
+[Tue Feb 19 11:11:44 EST 2013]OAuth signature: ig/7yUsCCVfoId+Af44QCmiscOA=
+[Tue Feb 19 11:11:44 EST 2013]Authorization: ******************************************************************************************************************************************************************************************************************
+[Tue Feb 19 11:11:44 EST 2013]X-Twitter-Client-URL: http://twitter4j.org/en/twitter4j-3.0.3.xml
+[Tue Feb 19 11:11:44 EST 2013]X-Twitter-Client: Twitter4J
+[Tue Feb 19 11:11:44 EST 2013]Accept-Encoding: gzip
+[Tue Feb 19 11:11:44 EST 2013]User-Agent: twitter4j http://twitter4j.org/ /3.0.3
+[Tue Feb 19 11:11:44 EST 2013]X-Twitter-Client-Version: 3.0.3
+[Tue Feb 19 11:11:44 EST 2013]Post Params: 
+[Tue Feb 19 11:11:45 EST 2013]Response: 
+[Tue Feb 19 11:11:45 EST 2013]HTTP/1.1 200 OK
+[Tue Feb 19 11:11:45 EST 2013]X-Runtime: 0.03210
+[Tue Feb 19 11:11:45 EST 2013]ETag: "1c57240a4f92c5a5b528b64fe71bfd87"
+[Tue Feb 19 11:11:45 EST 2013]Content-Length: 150
+[Tue Feb 19 11:11:45 EST 2013]X-Transaction: 261dbb265c419d66
+[Tue Feb 19 11:11:45 EST 2013]X-MID: e917b530e79a3d30a01b226d7806083e6dab0c4e
+[Tue Feb 19 11:11:45 EST 2013]Expires: Tue, 31 Mar 1981 05:00:00 GMT
+[Tue Feb 19 11:11:45 EST 2013]Last-Modified: Tue, 19 Feb 2013 16:11:44 GMT
+[Tue Feb 19 11:11:45 EST 2013]Set-Cookie: _twitter_sess=BAh7CCIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCJydOfM8AToHaWQiJTcw%250ANWQ2ZDk1MmE2MjE0YTU1M2E4NWM2OWUwMmY1MmM1--29a4c6058c9443f253edc5db151e2e775643ccb9; domain=.twitter.com; path=/; HttpOnly
+[Tue Feb 19 11:11:45 EST 2013]Set-Cookie: guest_id=v1%3A136129030492397777; domain=.twitter.com; path=/; expires=Fri, 20-Feb-2015 04:11:44 GMT
+[Tue Feb 19 11:11:45 EST 2013]Set-Cookie: k=10.41.26.109.1361290304910539; path=/; expires=Tue, 26-Feb-13 16:11:44 GMT; domain=.twitter.com
+[Tue Feb 19 11:11:45 EST 2013]Server: tfe
+[Tue Feb 19 11:11:45 EST 2013]Cache-Control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+[Tue Feb 19 11:11:45 EST 2013]Pragma: no-cache
+[Tue Feb 19 11:11:45 EST 2013]X-Frame-Options: SAMEORIGIN
+[Tue Feb 19 11:11:45 EST 2013]Status: 200 OK
+[Tue Feb 19 11:11:45 EST 2013]Vary: Accept-Encoding
+[Tue Feb 19 11:11:45 EST 2013]Date: Tue, 19 Feb 2013 16:11:44 GMT
+[Tue Feb 19 11:11:45 EST 2013]Content-Encoding: gzip
+[Tue Feb 19 11:11:45 EST 2013]Content-Type: text/html; charset=utf-8
+[Tue Feb 19 11:11:45 EST 2013]oauth_token=QFgIM2MPF9seLaC5zNgDzBxjCj2OvSDJXWCZ7lcto&oauth_token_secret=7rNvM0cInQ00sd6JnB4PILKEiAJbKnqKQGjflQO8A&oauth_callback_confirmed=true
+
+Got request token.
+Request token: QFgIM2MPF9seLaC5zNgDzBxjCj2OvSDJXWCZ7lcto
+Request token secret: 7rNvM0cInQ00sd6JnB4PILKEiAJbKnqKQGjflQO8A
+Open the following URL and grant access to your account:
+http://api.twitter.com/oauth/authorize?oauth_token=QFgIM2MPF9seLaC5zNgDzBxjCj2OvSDJXWCZ7lcto
+Enter the PIN and hit enter after you granted access. [PIN]:4108189
+[Tue Feb 19 11:12:16 EST 2013]Request: 
+[Tue Feb 19 11:12:16 EST 2013]POST http://api.twitter.com/oauth/access_token
+[Tue Feb 19 11:12:16 EST 2013]OAuth base string: POST&http%3A%2F%2Fapi.twitter.com%2Foauth%2Faccess_token&oauth_consumer_key%3D87phzuHwuARcCwAjgVUYww%26oauth_nonce%3D3263336001%26oauth_signature_method%3DHMAC-SHA1%26oauth_timestamp%3D1361290336%26oauth_token%3DQFgIM2MPF9seLaC5zNgDzBxjCj2OvSDJXWCZ7lcto%26oauth_verifier%3D4108189%26oauth_version%3D1.0
+[Tue Feb 19 11:12:16 EST 2013]OAuth signature: KPyKLW5U/7R5FPUjWaWuB79tByY=
+[Tue Feb 19 11:12:16 EST 2013]Authorization: *************************************************************************************************************************************************************************************************************************************************************************
+[Tue Feb 19 11:12:16 EST 2013]X-Twitter-Client-URL: http://twitter4j.org/en/twitter4j-3.0.3.xml
+[Tue Feb 19 11:12:16 EST 2013]X-Twitter-Client: Twitter4J
+[Tue Feb 19 11:12:16 EST 2013]Accept-Encoding: gzip
+[Tue Feb 19 11:12:16 EST 2013]User-Agent: twitter4j http://twitter4j.org/ /3.0.3
+[Tue Feb 19 11:12:16 EST 2013]X-Twitter-Client-Version: 3.0.3
+[Tue Feb 19 11:12:16 EST 2013]Post Params: oauth_verifier=4108189
+[Tue Feb 19 11:12:17 EST 2013]Response: 
+[Tue Feb 19 11:12:17 EST 2013]HTTP/1.1 200 OK
+[Tue Feb 19 11:12:17 EST 2013]X-Runtime: 0.04746
+[Tue Feb 19 11:12:17 EST 2013]ETag: "92f433a6cff1a7d7b6ed0b3da1042996"
+[Tue Feb 19 11:12:17 EST 2013]Content-Length: 164
+[Tue Feb 19 11:12:17 EST 2013]X-Transaction: 39d847be61b2f476
+[Tue Feb 19 11:12:17 EST 2013]X-MID: a282b7ae50ecca039775c0189b7a9e114b5f3031
+[Tue Feb 19 11:12:17 EST 2013]Expires: Tue, 31 Mar 1981 05:00:00 GMT
+[Tue Feb 19 11:12:17 EST 2013]Last-Modified: Tue, 19 Feb 2013 16:12:17 GMT
+[Tue Feb 19 11:12:17 EST 2013]Set-Cookie: _twitter_sess=BAh7CCIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCDEbOvM8AToHaWQiJWEy%250AMTM2Njg4MTAzM2ZiNWE2NWZmNjM0OTRjYzQyMTI3--32390c39eda5ddd0c249dd5f312412e06de2ba7d; domain=.twitter.com; path=/; HttpOnly
+[Tue Feb 19 11:12:17 EST 2013]Set-Cookie: guest_id=v1%3A136129033707113826; domain=.twitter.com; path=/; expires=Fri, 20-Feb-2015 04:12:17 GMT
+[Tue Feb 19 11:12:17 EST 2013]Set-Cookie: k=10.41.22.121.1361290337059898; path=/; expires=Tue, 26-Feb-13 16:12:17 GMT; domain=.twitter.com
+[Tue Feb 19 11:12:17 EST 2013]Server: tfe
+[Tue Feb 19 11:12:17 EST 2013]Pragma: no-cache
+[Tue Feb 19 11:12:17 EST 2013]Cache-Control: no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+[Tue Feb 19 11:12:17 EST 2013]X-Frame-Options: SAMEORIGIN
+[Tue Feb 19 11:12:17 EST 2013]Status: 200 OK
+[Tue Feb 19 11:12:17 EST 2013]Vary: Accept-Encoding
+[Tue Feb 19 11:12:17 EST 2013]Date: Tue, 19 Feb 2013 16:12:17 GMT
+[Tue Feb 19 11:12:17 EST 2013]Content-Encoding: gzip
+[Tue Feb 19 11:12:17 EST 2013]Content-Type: text/html; charset=utf-8
+[Tue Feb 19 11:12:17 EST 2013]oauth_token=191177028-bAHbsEQvBbcNG8sQ1ZUPli9rhwGIzyx6CGvJIYbf&oauth_token_secret=1i7rzY2d6WSnylYLjc3SrEzVKwZZNlmLM5yPVFigUWY&user_id=191177028&screen_name=grebes15
+
+Got access token.
+Access token: 191177028-bAHbsEQvBbcNG8sQ1ZUPli9rhwGIzyx6CGvJIYbf
+Access token secret: 1i7rzY2d6WSnylYLjc3SrEzVKwZZNlmLM5yPVFigUWY
+Writing the properties file
+]0;landgrebea@aldenv104: ~/cs112/lab3landgrebea@aldenv104:~/cs112/lab3$ ex [Kit
+exit
+
+Script done on Tue 19 Feb 2013 11:12:21 AM EST

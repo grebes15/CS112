@@ -1,0 +1,59 @@
+Script started on Thu 14 Mar 2013 04:40:59 PM EDT
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ packl2[K[K[K2[Kk200 acit[K[Kti[K[K[K[K[K[K[K[K[K[K[K[K/usr/bin/timne [K[K[Ke aci[Ktivation.pack.gz[C activation.pack.gzp activation.pack.gza activation.pack.gzc activation.pack.gzk activation.pack.gz2 activation.pack.gz0 activation.pack.gz0 activation.pack.gz[C activation.pack.gz[1Pactivation.pack.gz[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C activ ation./[Kjar
+0.95user 0.03system 0:00.60elapsed 164%CPU (0avgtext+0avgdata 131696maxresident)k
+0inputs+120outputs (0major+13490minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 activation.pack.gz activaation.jar
+0.99user 0.02system 0:00.61elapsed 166%CPU (0avgtext+0avgdata 131840maxresident)k
+0inputs+120outputs (0major+13315minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 activation.pack.gz activaation.jar
+1.02user 0.04system 0:00.64elapsed 165%CPU (0avgtext+0avgdata 139968maxresident)k
+0inputs+120outputs (0major+12313minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 activation.pack.gz activaation.jar
+1.04user 0.03system 0:00.63elapsed 168%CPU (0avgtext+0avgdata 139232maxresident)k
+0inputs+120outputs (0major+13082minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 activation.pack.gz activaation.jar
+0.89user 0.06system 0:00.58elapsed 163%CPU (0avgtext+0avgdata 135216maxresident)k
+0inputs+120outputs (0major+12552minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 activation.pack.gz activaation.jar[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C activat[1Pion.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C activati[1Pon.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C activatio[1Pn.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cz activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cx activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C activation.pack a[1Pctivation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp activation.pack activation.jar[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+0.97user 0.04system 0:00.61elapsed 164%CPU (0avgtext+0avgdata 132576maxresident)k
+0inputs+168outputs (0major+14336minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip activation.packk activation.jar
+0.88user 0.03system 0:00.57elapsed 160%CPU (0avgtext+0avgdata 137344maxresident)k
+0inputs+168outputs (0major+12729minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip activation.packk activation.jar
+0.94user 0.05system 0:00.60elapsed 165%CPU (0avgtext+0avgdata 139536maxresident)k
+0inputs+168outputs (0major+14249minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip activation.packk activation.jar
+0.88user 0.02system 0:00.55elapsed 162%CPU (0avgtext+0avgdata 131376maxresident)k
+0inputs+168outputs (0major+12078minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip activation.packk activation.jar
+0.91user 0.05system 0:00.60elapsed 160%CPU (0avgtext+0avgdata 130320maxresident)k
+0inputs+168outputs (0major+13242minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ zip activation [K.zip active[Kation [K.jar
+updating: activation.jar (deflated 10%)
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ usr/bom/[K[K[K[Kbin/time zip activation.[K.zip activation.jar [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/usr/bin/time zip activation.zip activation.jarr[A]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C
+updating: activation.jar (deflated 10%)
+0.00user 0.00system 0:00.02elapsed 14%CPU (0avgtext+0avgdata 4480maxresident)k
+120inputs+120outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip activation.zip activation.jarr
+updating: activation.jar (deflated 10%)
+0.00user 0.00system 0:00.02elapsed 14%CPU (0avgtext+0avgdata 4480maxresident)k
+120inputs+120outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip activation.zip activation.jarr
+updating: activation.jar (deflated 10%)
+0.00user 0.00system 0:00.02elapsed 14%CPU (0avgtext+0avgdata 4464maxresident)k
+120inputs+120outputs (0major+344minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip activation.zip activation.jarr
+updating: activation.jar (deflated 10%)
+0.00user 0.00system 0:00.02elapsed 14%CPU (0avgtext+0avgdata 4480maxresident)k
+120inputs+120outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip activation.zip activation.jarr
+updating: activation.jar (deflated 10%)
+0.00user 0.00system 0:00.19elapsed 2%CPU (0avgtext+0avgdata 4480maxresident)k
+120inputs+120outputs (0major+346minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ exit
+exit
+
+Script done on Thu 14 Mar 2013 04:43:35 PM EDT

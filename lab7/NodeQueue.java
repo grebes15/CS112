@@ -1,0 +1,56 @@
+
+
+public class NodeQueue<E> {
+
+    private int size;
+    private Node<E> head;
+    private Node<E> tail;
+
+    public int size() {
+	return size;
+    }
+
+    public Boolean isEmpty() {
+	if (size == 0) {
+	    return true;
+	} else {
+	    return false;
+	}
+    }
+
+    public E front() {
+	if (size == 0){
+	    throw new QueueEmptyException("Queue is empty.");
+	}
+	E tmp = head.getElement();
+	return tmp;
+    }
+
+
+    public E dequeue() throws QueueEmptyException {
+	if (size == 0){
+	    throw new QueueEmptyException("Queue is empty.");
+	}
+	E tmp = head.getElement();
+	head = head.getNext();
+	size--;
+	if (size == 0)
+	    tail = null; // the queue is now empty
+	return tmp;
+    }
+
+
+    public void enqueue(E elem){
+	Node<E> node = new Node<E>();
+	node.setElement(elem);
+	node.setNext(null); // node will be new tail node
+
+	if (size == 0){
+	    head = node; // special case of a previously empty queue
+	}else{
+	    tail.setNext(node); // add node at the tail of the list
+	}
+	tail = node; // update the reference to the tail node
+	size++;
+    }				
+}

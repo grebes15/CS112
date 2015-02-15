@@ -1,0 +1,46 @@
+Script started on Mon 15 Apr 2013 06:30:18 PM EDT
+]0;landgrebea@aldenv180: ~/cs112/eclipse/Lab7/srclandgrebea@aldenv180:~/cs112/eclipse/Lab7/src$ cd lab7cs112java QueueDemonstration c QueueDemonstration.java
+]0;landgrebea@aldenv180: ~/cs112/eclipse/Lab7/srclandgrebea@aldenv180:~/cs112/eclipse/Lab7/src$ javac QueueDemonstration.javacd lab7[Kcs112java QueueDemonstration c QueueDemonstration.java[5P QueueDemonstration 
+This is the size of the array:
+Enqueuing a 5 onto the Queue:5 
+This is the size of the array:1
+Enqueuing a 3 onto the Queue:5 3 
+This is the size of the array:2
+Testing the front method: 5
+We Just Dequeued a 5
+We just Dequeued a 3
+Attempting to dequeue
+QueueEmptyException: Queue is empty
+	at ArrayQueue.dequeue(ArrayQueue.java:32)
+	at QueueDemonstration.main(QueueDemonstration.java:26)
+Caught a QueueEmptyException
+Enqueuing a 15 onto the Queue
+Enqueuing a 30 onto the Queue
+QueueFullException: Queue is full
+	at ArrayQueue.enqueue(ArrayQueue.java:42)
+	at QueueDemonstration.main(QueueDemonstration.java:38)
+Caught a QueueFullException
+
+
+
+Now Testing the NodeQueue
+
+Enqueuing a 'Computer' onto the Queue: [Computer]
+Enqueuing a 'Science' onto the Queue:[Computer, Science]
+Enqueuing a 'Is' onto the Queue:[Computer, Science, Is]
+Enqueuing a 'Interesting' onto the Queue:[Computer, Science, Is, Interesting]
+This is the size of the array:4
+Displays the top of the queue which is: Computer
+We just dequeued a: Computer
+We just dequeued a: Science
+We just dequeued a: Is
+We just dequeued a: Interesting
+Attempting to dequeue
+QueueEmptyException: Queue is empty.
+	at NodeQueue.dequeue(NodeQueue.java:32)
+	at QueueDemonstration.main(QueueDemonstration.java:78)
+Caught a QueueEmptyException
+]0;landgrebea@aldenv180: ~/cs112/eclipse/Lab7/srclandgrebea@aldenv180:~/cs112/eclipse/Lab7/src$ exit
+exit
+
+Script done on Mon 15 Apr 2013 06:30:33 PM EDT

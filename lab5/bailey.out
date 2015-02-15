@@ -1,0 +1,75 @@
+Script started on Thu 14 Mar 2013 04:49:11 PM EDT
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bio[Kn/time pack200 bailey.pack.gz bailey.ja r
+2.10user 0.06system 0:01.19elapsed 182%CPU (0avgtext+0avgdata 216176maxresident)k
+0inputs+176outputs (0major+22733minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 bailey.pack.gz bailey.jarr
+2.37user 0.06system 0:01.32elapsed 184%CPU (0avgtext+0avgdata 210480maxresident)k
+0inputs+176outputs (0major+25059minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 bailey.pack.gz bailey.jarr
+2.05user 0.06system 0:01.15elapsed 183%CPU (0avgtext+0avgdata 207472maxresident)k
+0inputs+176outputs (0major+22145minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 bailey.pack.gz bailey.jarr
+2.26user 0.07system 0:01.28elapsed 181%CPU (0avgtext+0avgdata 214368maxresident)k
+0inputs+176outputs (0major+26992minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 bailey.pack.gz bailey.jarr
+2.20user 0.07system 0:01.25elapsed 181%CPU (0avgtext+0avgdata 210208maxresident)k
+0inputs+176outputs (0major+22712minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin [K.ti[K[K[K/time pavk20[K[K[K[Kck200 bailey.pack p[Kbailey.jar
+To write a *.pack file, specify --no-gzip: bailey.pack
+Usage:  pack200 [-opt... | --option=value]... x.pack[.gz] y.jar
+(For more information, run pack200 --help .)
+Command exited with non-zero status 2
+0.06user 0.01system 0:00.07elapsed 96%CPU (0avgtext+0avgdata 59296maxresident)k
+0inputs+64outputs (0major+3809minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 bailey.pack bailey.jar
+To write a *.pack file, specify --no-gzip: bailey.pack
+Usage:  pack200 [-opt... | --option=value]... x.pack[.gz] y.jar
+(For more information, run pack200 --help .)
+Command exited with non-zero status 2
+0.07user 0.00system 0:00.08elapsed 95%CPU (0avgtext+0avgdata 59328maxresident)k
+0inputs+64outputs (0major+3811minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 bailey.pack bailey.jar
+To write a *.pack file, specify --no-gzip: bailey.pack
+Usage:  pack200 [-opt... | --option=value]... x.pack[.gz] y.jar
+(For more information, run pack200 --help .)
+Command exited with non-zero status 2
+0.04user 0.03system 0:00.07elapsed 100%CPU (0avgtext+0avgdata 59552maxresident)k
+0inputs+64outputs (0major+3810minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 bailey.pack bailey.jar
+To write a *.pack file, specify --no-gzip: bailey.pack
+Usage:  pack200 [-opt... | --option=value]... x.pack[.gz] y.jar
+(For more information, run pack200 --help .)
+Command exited with non-zero status 2
+0.06user 0.00system 0:00.08elapsed 95%CPU (0avgtext+0avgdata 59536maxresident)k
+0inputs+64outputs (0major+3809minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 bailey.pack bailey.jar
+To write a *.pack file, specify --no-gzip: bailey.pack
+Usage:  pack200 [-opt... | --option=value]... x.pack[.gz] y.jar
+(For more information, run pack200 --help .)
+Command exited with non-zero status 2
+0.06user 0.00system 0:00.07elapsed 94%CPU (0avgtext+0avgdata 59296maxresident)k
+0inputs+64outputs (0major+3810minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr./[K[K/bin./t[K[K[K/time bailey.jar [K[K[K[K[K.zip [1@ [1@z[1@i[1@p[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbailey.jar
+updating: bailey.jar (deflated 7%)
+0.01user 0.00system 0:00.16elapsed 7%CPU (0avgtext+0avgdata 4480maxresident)k
+360inputs+360outputs (0major+344minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip bailey.zip bailey.jar
+updating: bailey.jar (deflated 7%)
+0.00user 0.00system 0:00.10elapsed 7%CPU (0avgtext+0avgdata 4496maxresident)k
+360inputs+360outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip bailey.zip bailey.jar
+updating: bailey.jar (deflated 7%)
+0.00user 0.00system 0:00.07elapsed 16%CPU (0avgtext+0avgdata 4496maxresident)k
+360inputs+360outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip bailey.zip bailey.jar
+updating: bailey.jar (deflated 7%)
+0.01user 0.00system 0:00.06elapsed 25%CPU (0avgtext+0avgdata 4496maxresident)k
+360inputs+360outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip bailey.zip bailey.jar
+updating: bailey.jar (deflated 7%)
+0.00user 0.00system 0:00.05elapsed 14%CPU (0avgtext+0avgdata 4480maxresident)k
+360inputs+360outputs (0major+344minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /[Kexit
+exit
+
+Script done on Thu 14 Mar 2013 04:51:24 PM EDT

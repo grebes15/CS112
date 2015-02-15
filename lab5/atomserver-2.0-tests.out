@@ -1,0 +1,55 @@
+Script started on Thu 14 Mar 2013 04:43:47 PM EDT
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ pacvk [K[K[Kk 200 [K[K[K[K[K[K[K[K[K/usr/bin.[K/time pack200 atomserver-2.0-tests.packk.gz atomsserver[K[K[K[K[K[K[Kserver-2.0-tests.jar [K
+2.14user 0.07system 0:01.20elapsed 183%CPU (0avgtext+0avgdata 208480maxresident)k
+0inputs+208outputs (0major+20397minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 atomserver-2.0-tests.packk.gz atomserver-2.0-tests.jar
+1.79user 0.06system 0:01.02elapsed 180%CPU (0avgtext+0avgdata 195584maxresident)k
+0inputs+208outputs (0major+18753minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 atomserver-2.0-tests.packk.gz atomserver-2.0-tests.jar
+2.10user 0.03system 0:01.15elapsed 184%CPU (0avgtext+0avgdata 196320maxresident)k
+0inputs+208outputs (0major+17339minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 atomserver-2.0-tests.packk.gz atomserver-2.0-tests.jar
+2.12user 0.04system 0:01.18elapsed 183%CPU (0avgtext+0avgdata 193424maxresident)k
+0inputs+208outputs (0major+20170minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 atomserver-2.0-tests.packk.gz atomserver-2.0-tests.jar
+2.03user 0.05system 0:01.14elapsed 182%CPU (0avgtext+0avgdata 187712maxresident)k
+0inputs+208outputs (0major+23451minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin./[Kti[K[K[K/time pack n[K--no-gzip [C[C[1@2[1@0[1@0[C[C[C[C[C[C[C[C[C[C[Catomserver-2.0--tests.pack atomserver-2.0-tests.jar [K
+2.16user 0.03system 0:01.19elapsed 184%CPU (0avgtext+0avgdata 198512maxresident)k
+0inputs+488outputs (0major+18776minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip atomserver-2.0--tests.pack atomserver-2.0-tests.jar
+1.88user 0.08system 0:01.08elapsed 181%CPU (0avgtext+0avgdata 197840maxresident)k
+0inputs+488outputs (0major+21439minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip atomserver-2.0--tests.pack atomserver-2.0-tests.jar
+2.05user 0.06system 0:01.14elapsed 185%CPU (0avgtext+0avgdata 188816maxresident)k
+0inputs+488outputs (0major+19556minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip atomserver-2.0--tests.pack atomserver-2.0-tests.jar
+1.98user 0.05system 0:01.12elapsed 182%CPU (0avgtext+0avgdata 191152maxresident)k
+0inputs+488outputs (0major+18680minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip atomserver-2.0--tests.pack atomserver-2.0-tests.jar
+2.00user 0.07system 0:01.15elapsed 180%CPU (0avgtext+0avgdata 189264maxresident)k
+0inputs+488outputs (0major+25632minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr.bin[K[K[K[K[Kr/bint[K/time zip atomserver-2.0-tests.zip ato mserver-2.0-tests.jar
+updating: atomserver-2.0-tests.jar (deflated 7%)
+0.01user 0.00system 0:00.05elapsed 22%CPU (0avgtext+0avgdata 4496maxresident)k
+352inputs+352outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip atomserver-2.0-tests.zip atommserver-2.0-tests.jar
+updating: atomserver-2.0-tests.jar (deflated 7%)
+0.01user 0.00system 0:00.05elapsed 23%CPU (0avgtext+0avgdata 4496maxresident)k
+352inputs+352outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip atomserver-2.0-tests.zip atommserver-2.0-tests.jar
+updating: atomserver-2.0-tests.jar (deflated 7%)
+0.01user 0.00system 0:00.05elapsed 27%CPU (0avgtext+0avgdata 4496maxresident)k
+352inputs+352outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip atomserver-2.0-tests.zip atommserver-2.0-tests.jar
+updating: atomserver-2.0-tests.jar (deflated 7%)
+0.00user 0.00system 0:00.05elapsed 28%CPU (0avgtext+0avgdata 4496maxresident)k
+352inputs+352outputs (0major+345minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip atomserver-2.0-tests.zip atommserver-2.0-tests.jar
+updating: atomserver-2.0-tests.jar (deflated 7%)
+0.01user 0.00system 0:00.06elapsed 25%CPU (0avgtext+0avgdata 4480maxresident)k
+352inputs+352outputs (0major+344minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ exit[K[K[K[Kexit
+exit
+
+Script done on Thu 14 Mar 2013 04:48:41 PM EDT

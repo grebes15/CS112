@@ -1,0 +1,55 @@
+Script started on Thu 14 Mar 2013 05:19:14 PM EDT
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ usr.bi[K[K[K[Kr/bion[K[Kn/time [1@/[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctwitter [K[K[K[K[K[K[K[K[K pack200 twitter4j-core-3.0.3.packk.gz tiwttert[K[K[K[K[K[K[Kwitter4j-core-3.0.3.jar 
+3.48user 0.07system 0:01.91elapsed 186%CPU (0avgtext+0avgdata 255392maxresident)k
+0inputs+232outputs (0major+27997minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 twitter4j-core-3.0.3.packk.gz twitter4j-core-3.0.3.jar 
+3.38user 0.04system 0:01.85elapsed 185%CPU (0avgtext+0avgdata 245584maxresident)k
+0inputs+232outputs (0major+24784minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 twitter4j-core-3.0.3.packk.gz twitter4j-core-3.0.3.jar 
+3.41user 0.06system 0:01.89elapsed 183%CPU (0avgtext+0avgdata 253280maxresident)k
+0inputs+232outputs (0major+25179minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 twitter4j-core-3.0.3.packk.gz twitter4j-core-3.0.3.jar 
+3.28user 0.08system 0:01.85elapsed 181%CPU (0avgtext+0avgdata 267664maxresident)k
+0inputs+232outputs (0major+28881minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 twitter4j-core-3.0.3.packk.gz twitter4j-core-3.0.3.jar 
+3.43user 0.07system 0:01.90elapsed 184%CPU (0avgtext+0avgdata 250736maxresident)k
+0inputs+232outputs (0major+33876minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr./[K[K.bi[K[K[K/bin/time pack200 n[K--no-gzip twitter4j-core--3.0.3.pack twitter4j-core-3.0.3.jar 
+3.37user 0.09system 0:01.86elapsed 185%CPU (0avgtext+0avgdata 247104maxresident)k
+0inputs+456outputs (0major+33246minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip twitter4j-core--3.0.3.pack twitter4j-core-3.0.3.jar 
+3.17user 0.06system 0:01.78elapsed 181%CPU (0avgtext+0avgdata 244528maxresident)k
+0inputs+456outputs (0major+27758minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip twitter4j-core--3.0.3.pack twitter4j-core-3.0.3.jar 
+3.43user 0.06system 0:01.87elapsed 186%CPU (0avgtext+0avgdata 250928maxresident)k
+0inputs+456outputs (0major+25773minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip twitter4j-core--3.0.3.pack twitter4j-core-3.0.3.jar 
+3.29user 0.06system 0:01.84elapsed 182%CPU (0avgtext+0avgdata 251760maxresident)k
+0inputs+456outputs (0major+26518minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip twitter4j-core--3.0.3.pack twitter4j-core-3.0.3.jar 
+3.45user 0.08system 0:01.89elapsed 186%CPU (0avgtext+0avgdata 251616maxresident)k
+0inputs+456outputs (0major+27127minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bio[Kmn[K[Kn/time zip ti[Kwitter4j-core-3.0.3.zip twi tter4j-core-3.0.3.jar
+updating: twitter4j-core-3.0.3.jar (deflated 7%)
+0.01user 0.00system 0:00.07elapsed 26%CPU (0avgtext+0avgdata 4496maxresident)k
+392inputs+520outputs (0major+346minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip twitter4j-core-3.0.3.zip twittter4j-core-3.0.3.jar
+updating: twitter4j-core-3.0.3.jar (deflated 7%)
+0.01user 0.00system 0:00.07elapsed 28%CPU (0avgtext+0avgdata 4512maxresident)k
+392inputs+520outputs (0major+346minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip twitter4j-core-3.0.3.zip twittter4j-core-3.0.3.jar
+updating: twitter4j-core-3.0.3.jar (deflated 7%)
+0.01user 0.00system 0:00.07elapsed 26%CPU (0avgtext+0avgdata 4512maxresident)k
+392inputs+520outputs (0major+346minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip twitter4j-core-3.0.3.zip twittter4j-core-3.0.3.jar
+updating: twitter4j-core-3.0.3.jar (deflated 7%)
+0.01user 0.00system 0:00.07elapsed 22%CPU (0avgtext+0avgdata 4512maxresident)k
+392inputs+520outputs (0major+346minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip twitter4j-core-3.0.3.zip twittter4j-core-3.0.3.jar
+updating: twitter4j-core-3.0.3.jar (deflated 7%)
+0.02user 0.00system 0:00.07elapsed 32%CPU (0avgtext+0avgdata 4512maxresident)k
+392inputs+520outputs (0major+347minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ exit
+exit
+
+Script done on Thu 14 Mar 2013 05:21:07 PM EDT

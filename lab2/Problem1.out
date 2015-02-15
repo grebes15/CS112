@@ -1,0 +1,1076 @@
+Script started on Sat 02 Feb 2013 02:38:53 PM EST
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ exitjava UseFibonacci 8 all all\[K[1@15[C[C[C[C[C[C[C[C3[C[C[C[C[C[C[C[C[1P7[C[C[C[C[C[C[C[C
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 7th Fibonacci number = 13.
+(Recursive/long) The 7th Fibonacci number = 13.
+(Iterative/int) The 7th Fibonacci number = 13.
+(Iterative/long) The 7th Fibonacci number = 13.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 7 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 7th Fibonacci number = 13.
+(Recursive/long) The 7th Fibonacci number = 13.
+(Iterative/int) The 7th Fibonacci number = 13.
+(Iterative/long) The 7th Fibonacci number = 13.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 7 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 7th Fibonacci number = 13.
+(Recursive/long) The 7th Fibonacci number = 13.
+(Iterative/int) The 7th Fibonacci number = 13.
+(Iterative/long) The 7th Fibonacci number = 13.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 7 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 7th Fibonacci number = 13.
+(Recursive/long) The 7th Fibonacci number = 13.
+(Iterative/int) The 7th Fibonacci number = 13.
+(Iterative/long) The 7th Fibonacci number = 13.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 7 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 7th Fibonacci number = 13.
+(Recursive/long) The 7th Fibonacci number = 13.
+(Iterative/int) The 7th Fibonacci number = 13.
+(Iterative/long) The 7th Fibonacci number = 13.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 7 all allexit[Kjava UseFibonacci 8 all all\[K[1@15[C[C[C[C[C[C[C[C3[C[C[C[C[C[C[C[C
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 13th Fibonacci number = 233.
+(Recursive/long) The 13th Fibonacci number = 233.
+(Iterative/int) The 13th Fibonacci number = 233.
+(Iterative/long) The 13th Fibonacci number = 233.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 13 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 13th Fibonacci number = 233.
+(Recursive/long) The 13th Fibonacci number = 233.
+(Iterative/int) The 13th Fibonacci number = 233.
+(Iterative/long) The 13th Fibonacci number = 233.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 13 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 13th Fibonacci number = 233.
+(Recursive/long) The 13th Fibonacci number = 233.
+(Iterative/int) The 13th Fibonacci number = 233.
+(Iterative/long) The 13th Fibonacci number = 233.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 13 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 13th Fibonacci number = 233.
+(Recursive/long) The 13th Fibonacci number = 233.
+(Iterative/int) The 13th Fibonacci number = 233.
+(Iterative/long) The 13th Fibonacci number = 233.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 13 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 13th Fibonacci number = 233.
+(Recursive/long) The 13th Fibonacci number = 233.
+(Iterative/int) The 13th Fibonacci number = 233.
+(Iterative/long) The 13th Fibonacci number = 233.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 13 all all[1P7[C[C[C[C[C[C[C[Cexit[Kjava UseFibonacci 8 all all\[K[1@15[C[C[C[C[C[C[C[C3[C[C[C[C[C[C[C[C5[C[C[C[C[C[C[C[C
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 15th Fibonacci number = 610.
+(Recursive/long) The 15th Fibonacci number = 610.
+(Iterative/int) The 15th Fibonacci number = 610.
+(Iterative/long) The 15th Fibonacci number = 610.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 15 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 15th Fibonacci number = 610.
+(Recursive/long) The 15th Fibonacci number = 610.
+(Iterative/int) The 15th Fibonacci number = 610.
+(Iterative/long) The 15th Fibonacci number = 610.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 15 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 15th Fibonacci number = 610.
+(Recursive/long) The 15th Fibonacci number = 610.
+(Iterative/int) The 15th Fibonacci number = 610.
+(Iterative/long) The 15th Fibonacci number = 610.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 15 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 15th Fibonacci number = 610.
+(Recursive/long) The 15th Fibonacci number = 610.
+(Iterative/int) The 15th Fibonacci number = 610.
+(Iterative/long) The 15th Fibonacci number = 610.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 15 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 15th Fibonacci number = 610.
+(Recursive/long) The 15th Fibonacci number = 610.
+(Iterative/int) The 15th Fibonacci number = 610.
+(Iterative/long) The 15th Fibonacci number = 610.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 15 all all3[C[C[C[C[C[C[C[C[1P7[C[C[C[C[C[C[C[Cexit[Kjava UseFibonacci 8 all all\[K
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 8th Fibonacci number = 21.
+(Recursive/long) The 8th Fibonacci number = 21.
+(Iterative/int) The 8th Fibonacci number = 21.
+(Iterative/long) The 8th Fibonacci number = 21.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 8 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 8th Fibonacci number = 21.
+(Recursive/long) The 8th Fibonacci number = 21.
+(Iterative/int) The 8th Fibonacci number = 21.
+(Iterative/long) The 8th Fibonacci number = 21.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 8 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 8th Fibonacci number = 21.
+(Recursive/long) The 8th Fibonacci number = 21.
+(Iterative/int) The 8th Fibonacci number = 21.
+(Iterative/long) The 8th Fibonacci number = 21.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 8 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 8th Fibonacci number = 21.
+(Recursive/long) The 8th Fibonacci number = 21.
+(Iterative/int) The 8th Fibonacci number = 21.
+(Iterative/long) The 8th Fibonacci number = 21.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 8 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 8th Fibonacci number = 21.
+(Recursive/long) The 8th Fibonacci number = 21.
+(Iterative/int) The 8th Fibonacci number = 21.
+(Iterative/long) The 8th Fibonacci number = 21.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UYse[K[K[KseFibonacci 18 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 18th Fibonacci number = 2584.
+(Recursive/long) The 18th Fibonacci number = 2584.
+(Iterative/int) The 18th Fibonacci number = 2584.
+(Iterative/long) The 18th Fibonacci number = 2584.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 18 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 18th Fibonacci number = 2584.
+(Recursive/long) The 18th Fibonacci number = 2584.
+(Iterative/int) The 18th Fibonacci number = 2584.
+(Iterative/long) The 18th Fibonacci number = 2584.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 18 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 18th Fibonacci number = 2584.
+(Recursive/long) The 18th Fibonacci number = 2584.
+(Iterative/int) The 18th Fibonacci number = 2584.
+(Iterative/long) The 18th Fibonacci number = 2584.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 18 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 18th Fibonacci number = 2584.
+(Recursive/long) The 18th Fibonacci number = 2584.
+(Iterative/int) The 18th Fibonacci number = 2584.
+(Iterative/long) The 18th Fibonacci number = 2584.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 18 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 18th Fibonacci number = 2584.
+(Recursive/long) The 18th Fibonacci number = 2584.
+(Iterative/int) The 18th Fibonacci number = 2584.
+(Iterative/long) The 18th Fibonacci number = 2584.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ Use [K[K[K[Kjaba[K[K[Kva[K[Kava UseFb[Kiob[K[Kbonacci 23 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 23th Fibonacci number = 28657.
+(Recursive/long) The 23th Fibonacci number = 28657.
+(Iterative/int) The 23th Fibonacci number = 28657.
+(Iterative/long) The 23th Fibonacci number = 28657.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 7 (ms)  average = 7.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 23 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 23th Fibonacci number = 28657.
+(Recursive/long) The 23th Fibonacci number = 28657.
+(Iterative/int) The 23th Fibonacci number = 28657.
+(Iterative/long) The 23th Fibonacci number = 28657.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 3 (ms)  average = 3.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 7 (ms)  average = 7.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 23 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 23th Fibonacci number = 28657.
+(Recursive/long) The 23th Fibonacci number = 28657.
+(Iterative/int) The 23th Fibonacci number = 28657.
+(Iterative/long) The 23th Fibonacci number = 28657.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 3 (ms)  average = 3.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 8 (ms)  average = 8.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 23 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 23th Fibonacci number = 28657.
+(Recursive/long) The 23th Fibonacci number = 28657.
+(Iterative/int) The 23th Fibonacci number = 28657.
+(Iterative/long) The 23th Fibonacci number = 28657.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 3 (ms)  average = 3.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 9 (ms)  average = 9.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 23 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 23th Fibonacci number = 28657.
+(Recursive/long) The 23th Fibonacci number = 28657.
+(Iterative/int) The 23th Fibonacci number = 28657.
+(Iterative/long) The 23th Fibonacci number = 28657.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 8 (ms)  average = 8.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java USE[K[KSE[K[KseFibonacci SE[K[K[K 36 ALL [K[K[K[K all [K[K[K[K[K[K  [K[K all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 36th Fibonacci number = 14930352.
+(Recursive/long) The 36th Fibonacci number = 14930352.
+(Iterative/int) The 36th Fibonacci number = 14930352.
+(Iterative/long) The 36th Fibonacci number = 14930352.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 91 (ms)  average = 91.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 90 (ms)  average = 90.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 36 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 36th Fibonacci number = 14930352.
+(Recursive/long) The 36th Fibonacci number = 14930352.
+(Iterative/int) The 36th Fibonacci number = 14930352.
+(Iterative/long) The 36th Fibonacci number = 14930352.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 87 (ms)  average = 87.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 90 (ms)  average = 90.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 36 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 36th Fibonacci number = 14930352.
+(Recursive/long) The 36th Fibonacci number = 14930352.
+(Iterative/int) The 36th Fibonacci number = 14930352.
+(Iterative/long) The 36th Fibonacci number = 14930352.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 90 (ms)  average = 90.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 90 (ms)  average = 90.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 36 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 36th Fibonacci number = 14930352.
+(Recursive/long) The 36th Fibonacci number = 14930352.
+(Iterative/int) The 36th Fibonacci number = 14930352.
+(Iterative/long) The 36th Fibonacci number = 14930352.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 87 (ms)  average = 87.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 93 (ms)  average = 93.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 36 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 36th Fibonacci number = 14930352.
+(Recursive/long) The 36th Fibonacci number = 14930352.
+(Iterative/int) The 36th Fibonacci number = 14930352.
+(Iterative/long) The 36th Fibonacci number = 14930352.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 86 (ms)  average = 86.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 94 (ms)  average = 94.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ Use[K[K[Kjava UseFibonacci 42 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 42th Fibonacci number = 267914296.
+(Recursive/long) The 42th Fibonacci number = 267914296.
+(Iterative/int) The 42th Fibonacci number = 267914296.
+(Iterative/long) The 42th Fibonacci number = 267914296.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 1509 (ms)  average = 1509.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1499 (ms)  average = 1499.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 42 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 42th Fibonacci number = 267914296.
+(Recursive/long) The 42th Fibonacci number = 267914296.
+(Iterative/int) The 42th Fibonacci number = 267914296.
+(Iterative/long) The 42th Fibonacci number = 267914296.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 1504 (ms)  average = 1504.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1495 (ms)  average = 1495.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 42 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 42th Fibonacci number = 267914296.
+(Recursive/long) The 42th Fibonacci number = 267914296.
+(Iterative/int) The 42th Fibonacci number = 267914296.
+(Iterative/long) The 42th Fibonacci number = 267914296.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 1506 (ms)  average = 1506.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1500 (ms)  average = 1500.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 42 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 42th Fibonacci number = 267914296.
+(Recursive/long) The 42th Fibonacci number = 267914296.
+(Iterative/int) The 42th Fibonacci number = 267914296.
+(Iterative/long) The 42th Fibonacci number = 267914296.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 1509 (ms)  average = 1509.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1506 (ms)  average = 1506.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 42 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 42th Fibonacci number = 267914296.
+(Recursive/long) The 42th Fibonacci number = 267914296.
+(Iterative/int) The 42th Fibonacci number = 267914296.
+(Iterative/long) The 42th Fibonacci number = 267914296.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 1508 (ms)  average = 1508.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 1497 (ms)  average = 1497.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 27 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 27th Fibonacci number = 196418.
+(Recursive/long) The 27th Fibonacci number = 196418.
+(Iterative/int) The 27th Fibonacci number = 196418.
+(Iterative/long) The 27th Fibonacci number = 196418.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 4 (ms)  average = 4.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 7 (ms)  average = 7.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 27 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 27th Fibonacci number = 196418.
+(Recursive/long) The 27th Fibonacci number = 196418.
+(Iterative/int) The 27th Fibonacci number = 196418.
+(Iterative/long) The 27th Fibonacci number = 196418.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 3 (ms)  average = 3.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 9 (ms)  average = 9.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 27 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 27th Fibonacci number = 196418.
+(Recursive/long) The 27th Fibonacci number = 196418.
+(Iterative/int) The 27th Fibonacci number = 196418.
+(Iterative/long) The 27th Fibonacci number = 196418.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 4 (ms)  average = 4.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 10 (ms)  average = 10.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 27 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 27th Fibonacci number = 196418.
+(Recursive/long) The 27th Fibonacci number = 196418.
+(Iterative/int) The 27th Fibonacci number = 196418.
+(Iterative/long) The 27th Fibonacci number = 196418.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 3 (ms)  average = 3.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 9 (ms)  average = 9.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 27 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 27th Fibonacci number = 196418.
+(Recursive/long) The 27th Fibonacci number = 196418.
+(Iterative/int) The 27th Fibonacci number = 196418.
+(Iterative/long) The 27th Fibonacci number = 196418.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 3 (ms)  average = 3.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 8 (ms)  average = 8.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ Use [K[K[K[Kja[Kava UseFibonacci 49 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 49th Fibonacci number = -811192543.
+(Recursive/long) The 49th Fibonacci number = 7778742049.
+(Iterative/int) The 49th Fibonacci number = -811192543.
+(Iterative/long) The 49th Fibonacci number = 7778742049.
+
+IterativeFibonacciInt:
+  count = 1  total = 3 (ms)  average = 3.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 43499 (ms)  average = 43499.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 47055 (ms)  average = 47055.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci  [K[K 354[K[K4 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 34th Fibonacci number = 5702887.
+(Recursive/long) The 34th Fibonacci number = 5702887.
+(Iterative/int) The 34th Fibonacci number = 5702887.
+(Iterative/long) The 34th Fibonacci number = 5702887.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 34 (ms)  average = 34.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 40 (ms)  average = 40.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 34 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 34th Fibonacci number = 5702887.
+(Recursive/long) The 34th Fibonacci number = 5702887.
+(Iterative/int) The 34th Fibonacci number = 5702887.
+(Iterative/long) The 34th Fibonacci number = 5702887.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 35 (ms)  average = 35.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 39 (ms)  average = 39.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 34 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 34th Fibonacci number = 5702887.
+(Recursive/long) The 34th Fibonacci number = 5702887.
+(Iterative/int) The 34th Fibonacci number = 5702887.
+(Iterative/long) The 34th Fibonacci number = 5702887.
+
+IterativeFibonacciInt:
+  count = 1  total = 1 (ms)  average = 1.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 36 (ms)  average = 36.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 41 (ms)  average = 41.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 34 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 34th Fibonacci number = 5702887.
+(Recursive/long) The 34th Fibonacci number = 5702887.
+(Iterative/int) The 34th Fibonacci number = 5702887.
+(Iterative/long) The 34th Fibonacci number = 5702887.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 35 (ms)  average = 35.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 45 (ms)  average = 45.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ java UseFibonacci 34 all all
+Begin experiment with different Fibonacci implementations ...
+
+(Recursive/int) The 34th Fibonacci number = 5702887.
+(Recursive/long) The 34th Fibonacci number = 5702887.
+(Iterative/int) The 34th Fibonacci number = 5702887.
+(Iterative/long) The 34th Fibonacci number = 5702887.
+
+IterativeFibonacciInt:
+  count = 1  total = 2 (ms)  average = 2.0 (ms)
+
+RecursiveFibonacciLong:
+  count = 1  total = 35 (ms)  average = 35.0 (ms)
+
+IterativeFibonacciLong:
+  count = 1  total = 0 (ms)  average = 0.0 (ms)
+
+RecursiveFibonacciInt:
+  count = 1  total = 40 (ms)  average = 40.0 (ms)
+
+... End experiment with different Fibonacci implementations
+]0;landgrebea@aldenv162: ~/cs112/lab2landgrebea@aldenv162:~/cs112/lab2$ exit
+exit
+
+Script done on Sat 02 Feb 2013 02:45:23 PM EST

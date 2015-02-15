@@ -1,0 +1,9 @@
+Script started on Thu 24 Jan 2013 03:23:11 PM EST
+]0;landgrebea@aldenv101: ~/cs112/lab1landgrebea@aldenv101:~/cs112/lab1$ javqa[Ka[K[Kac Twitter.java
+]0;landgrebea@aldenv101: ~/cs112/lab1landgrebea@aldenv101:~/cs112/lab1$ java Twitter
+This is an valid message: [DateThu Jan 24 15:23:20 EST 2013MessageHelloWorld!, DateThu Jan 24 15:23:20 EST 2013MessageAllegheny]
+This is an invalid message: [This is an invalid mesage because this message is going to be more than 140 characters. I am a tennis player at Allegheny and I am majoring in applied computing.]
+]0;landgrebea@aldenv101: ~/cs112/lab1landgrebea@aldenv101:~/cs112/lab1$ exit
+exit
+
+Script done on Thu 24 Jan 2013 03:23:33 PM EST

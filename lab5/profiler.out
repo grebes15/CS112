@@ -1,0 +1,55 @@
+Script started on Thu 14 Mar 2013 05:09:44 PM EDT
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/to[Kime pack200 profiler .[K[K.pack.gz profile r.jar
+0.24user 0.04system 0:00.22elapsed 126%CPU (0avgtext+0avgdata 99904maxresident)k
+0inputs+72outputs (0major+7714minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 profiler.pack.gz profilerr.jar
+0.26user 0.03system 0:00.22elapsed 129%CPU (0avgtext+0avgdata 101104maxresident)k
+0inputs+72outputs (0major+8255minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 profiler.pack.gz profilerr.jar
+0.26user 0.02system 0:00.22elapsed 125%CPU (0avgtext+0avgdata 101152maxresident)k
+0inputs+72outputs (0major+8074minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 profiler.pack.gz profilerr.jar
+0.26user 0.03system 0:00.23elapsed 128%CPU (0avgtext+0avgdata 99632maxresident)k
+0inputs+72outputs (0major+8301minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 profiler.pack.gz profilerr.jar
+0.26user 0.01system 0:00.21elapsed 126%CPU (0avgtext+0avgdata 98640maxresident)k
+0inputs+72outputs (0major+7742minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 profiler [K[K[K[K[K[K[K[K[K[K --no-gzip profiler.pack  profiler.jar
+0.24user 0.02system 0:00.21elapsed 126%CPU (0avgtext+0avgdata 98528maxresident)k
+0inputs+80outputs (0major+7554minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip profiler.pack pprofiler.jar
+0.30user 0.02system 0:00.25elapsed 131%CPU (0avgtext+0avgdata 99808maxresident)k
+0inputs+80outputs (0major+8129minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip profiler.pack pprofiler.jar
+0.29user 0.02system 0:00.24elapsed 128%CPU (0avgtext+0avgdata 102480maxresident)k
+0inputs+80outputs (0major+8255minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip profiler.pack pprofiler.jar
+0.28user 0.01system 0:00.23elapsed 128%CPU (0avgtext+0avgdata 102192maxresident)k
+0inputs+80outputs (0major+8176minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time pack200 --no-gzip profiler.pack pprofiler.jar
+0.26user 0.02system 0:00.21elapsed 129%CPU (0avgtext+0avgdata 99712maxresident)k
+0inputs+80outputs (0major+7805minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr./bi[K[K[K[K/bin [K.time [K[K[K[K[K[K/timne [K[K[Ke ap[K[Kpack200 [K[K[K[K[K[K[K[Kzip profiler./[Kzip profiler.jar
+  adding: profiler.jar (deflated 11%)
+0.00user 0.00system 0:00.01elapsed 0%CPU (0avgtext+0avgdata 4416maxresident)k
+0inputs+88outputs (0major+341minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip profiler.zip profiler.jar
+updating: profiler.jar (deflated 11%)
+0.00user 0.00system 0:00.02elapsed 0%CPU (0avgtext+0avgdata 4176maxresident)k
+88inputs+88outputs (0major+321minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip profiler.zip profiler.jar
+updating: profiler.jar (deflated 11%)
+0.00user 0.00system 0:00.02elapsed 0%CPU (0avgtext+0avgdata 4192maxresident)k
+88inputs+88outputs (0major+322minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip profiler.zip profiler.jar
+updating: profiler.jar (deflated 11%)
+0.00user 0.00system 0:00.03elapsed 0%CPU (0avgtext+0avgdata 4192maxresident)k
+88inputs+88outputs (0major+322minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ /usr/bin/time zip profiler.zip profiler.jar
+updating: profiler.jar (deflated 11%)
+0.00user 0.00system 0:00.02elapsed 0%CPU (0avgtext+0avgdata 4192maxresident)k
+88inputs+88outputs (0major+322minor)pagefaults 0swaps
+]0;landgrebea@aldenv23: ~/cs112/lab5landgrebea@aldenv23:~/cs112/lab5$ exit
+exit
+
+Script done on Thu 14 Mar 2013 05:11:19 PM EDT
